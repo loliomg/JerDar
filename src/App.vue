@@ -150,6 +150,6 @@ a {
 
 ::selection {
     background: #b2b8c1;
-    color: #00ff2b;
+    color: #dc5351;
 }
 </style>

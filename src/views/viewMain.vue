@@ -3,10 +3,21 @@
         <div>
             <div class="mainWrapper">
 
+                <scrollText />
+
             </div>
         </div>
     </main>
 </template>
+
+<script>
+import scrollText from '@/components/this/scrollText'
+export default {
+    components: {
+        scrollText
+    }
+}
+</script>
 
 <style lang="less" scoped>
 main {
