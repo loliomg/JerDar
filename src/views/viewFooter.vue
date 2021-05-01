@@ -24,11 +24,11 @@
                     <span class="Nbsp">/</span>
                     <p>Presented to <a
                             class="TIP"
-                            href="https://github.com/ohmyga233"
+                            href="https://github.com/bakaomg"
                             rel="noopener noreferrer"
                             target="_blank"
                             data-tooltip="ohmyga"
-                        >@ohmyga233</a></p>
+                        >@bakaomg</a></p>
                 </div>
             </div>
         </div>
